@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://komarev.com/ghpvc/?username=zobayerdev"> 
+<img src="https://komarev.com/ghpvc/?username=zayedndev"> 
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-<h1 align="center"> Hi 👋, I'm <a href="https://www.facebook.com/zobayerdev/">Md. Zobayer Hasan Nayem</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.facebook.com/zayedhasan.noman">Md. Zobayer Hasan Nayem</a></h1>
